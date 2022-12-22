@@ -25,6 +25,15 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF SLOWDNS (DNSTT SERVER) WITH:
 rm -rf install; apt update; wget https://github.com/starrising321/slow-dns/raw/main/install; chmod 777 install; ./install --start
 ```
 
+# After Installation Command
+
+```
+iptables -I INPUT -p udp --dport 5300 -j ACCEPT
+
+iptables -t nat -I PREROUTING -p udp --dport 53 -j REDIRECT --to-ports 5300
+
+lsof -i :5300
+```
 
 ## :octocat: Translated and Modded by STAR_JANI
 <!DOCTYPE html>
