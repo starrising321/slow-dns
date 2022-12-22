@@ -28,7 +28,7 @@ rm -rf install; apt update; wget https://github.com/starrising321/slow-dns/raw/m
 
 ## :octocat: Translated and Modded by STAR_JANI
 <ul>
- <li>TELEGRAM CHANNEL: https://t.me/star_jani</li>
+ <li>TELEGRAM CONTACT: https://t.me/star_jani</li>
  </ul>
  
 
