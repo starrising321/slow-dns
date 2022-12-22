@@ -27,9 +27,15 @@ rm -rf install; apt update; wget https://github.com/starrising321/slow-dns/raw/m
 
 
 ## :octocat: Translated and Modded by STAR_JANI
-<ul>
- <li>TELEGRAM CONTACT: https://t.me/star_jani</li>
- </ul>
+<!DOCTYPE html>
+<html>
+<body>
+   <center>
+      <h2>Telegram 👇🗿</h2>
+      <a href="https://t.me/Star_Jani"><img src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-7.jpg" alt="Tutorialspoint" style="width:50px;height:60px;"></a>
+   </center>
+</body>
+</html>
  
 
 ## :octocat: Credits
